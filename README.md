@@ -5,7 +5,7 @@
   - generate lead sheets conditioned on chords
   - generate lead sheets conditioned on melody contour
   - generate lead sheets conditioned on melody contour and chords
-- **variations:**
+- **Variations:**
   - random variations
   - melody similar variations
   - chord similar variations
